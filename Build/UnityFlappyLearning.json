@@ -1,9 +1,9 @@
 {
 "TOTAL_MEMORY": 268435456,
-"dataUrl": "UnityFlappyLearningV2.data.unityweb",
-"asmCodeUrl": "UnityFlappyLearningV2.asm.code.unityweb",
-"asmMemoryUrl": "UnityFlappyLearningV2.asm.memory.unityweb",
-"asmFrameworkUrl": "UnityFlappyLearningV2.asm.framework.unityweb",
+"dataUrl": "UnityFlappyLearning.data.unityweb",
+"asmCodeUrl": "UnityFlappyLearning.asm.code.unityweb",
+"asmMemoryUrl": "UnityFlappyLearning.asm.memory.unityweb",
+"asmFrameworkUrl": "UnityFlappyLearning.asm.framework.unityweb",
 "splashScreenStyle": "Dark",
 "backgroundColor": "#222C36"
 }
